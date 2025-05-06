@@ -1,8 +1,6 @@
 API Used
 https://fakeapi.platzi.com/en
 https://fakeapi.platzi.com/en/about/introduction/
-
-
 ![image](https://github.com/user-attachments/assets/c8026e7d-0ce4-4f7b-b60a-eebce4fc1a99)
 ![image](https://github.com/user-attachments/assets/93d9d3c9-d5e7-40e3-845d-f0f2b251fe37)
 ![image](https://github.com/user-attachments/assets/b98cfa09-c740-4c8a-987c-37272aa11199)
